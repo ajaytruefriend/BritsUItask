@@ -26,7 +26,7 @@ class TestSearch:
                          'Results for the year ended 31 December 2023',
                          'Interim Report 2023',
                          'Kirstin Simon',
-                         'Gavin Wilkinsons']
+                         'Gavin Wilkinson']
         # extracting the  actual results
         actual_List = []
         for text_result in text_results:
