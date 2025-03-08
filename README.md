@@ -14,5 +14,5 @@ A robust test automation framework using Selenium and pytest, with support for H
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/ajaytruefriend/BritsUItask/tree/master
+   git clone https://github.com/ajaytruefriend/BritsUItask.git
    cd BritsUItask
