@@ -6,3 +6,5 @@ def text(s):
 print(text('today is monday'))
 
 ## this is sample test file
+
+print('hello world')
