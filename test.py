@@ -10,3 +10,5 @@ print(text('today is monday'))
 print('hello world')
 
 ##testing done
+
+##type anything
